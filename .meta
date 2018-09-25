@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "a/user-module": "https://github.com/anomalylabs/users-module.git",
+    "nepali-calender": "https://github.com/madan2056/nepali-currency-formater.git"
+  }
+}
